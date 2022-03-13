@@ -11,13 +11,13 @@ A **free** and **unlimited** API for Google Translate :dollar::no_entry_sign:
 ## Install
 
 ```bash
-npm install @fdciabdul/googl-translate-api
+npm install @fdciabdul/google-translate-api
 ```
 
 or 
 
 ```bash
-yarn install @fdciabdul/googl-translate-api
+yarn install @fdciabdul/google-translate-api
 
 ```
 ## Usage
