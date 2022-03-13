@@ -1,0 +1,26 @@
+{
+  "name": "gtranslate-api",
+  "version": "1.0.3",
+  "description": "Free And Unlimited Google Translate API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdciabdul/Google-Translate-API.git"
+  },
+  "keywords": [
+    "google",
+    "translate",
+    "gtranslate",
+    "api",
+    "google"
+  ],
+  "author": "Abdul Muttaqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdciabdul/Google-Translate-API/issues"
+  },
+  "homepage": "https://github.com/fdciabdul/Google-Translate-API#readme"
+}
