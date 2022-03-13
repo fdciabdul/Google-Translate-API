@@ -36,7 +36,7 @@ console.log(res.translation);
 for specific language:
 
 ``` js
-trans.getSentence('Aku orang indonesia!', {from: 'id', to: 'end'}).then(res => {
+trans.getSentence('Aku orang indonesia!', {from: 'id', to: 'en'}).then(res => {
 console.log(res.translation);
 //=> I am Indonesian
 
@@ -47,7 +47,7 @@ console.log(res.translation);
 #### it's also can get dictionary from translation
 
 ``` js
-trans.getDictionary('Aku orang indonesia!', {from: 'id', to: 'end'}).then(res => {
+trans.getDictionary('Aku orang indonesia!', {from: 'id', to: 'en'}).then(res => {
 console.log(res.translation);
 //=> I am Indonesian
 
