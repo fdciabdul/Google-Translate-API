@@ -12,7 +12,7 @@ A **free** and **unlimited** API for Google Translate :dollar::no_entry_sign:
 
 ```bash
 npm install gtranslate-api
-
+```
 or 
 
 ```bash
